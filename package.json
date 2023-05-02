@@ -1,0 +1,16 @@
+{
+  "name": "render-student-data-using-html",
+  "version": "1.0.0",
+  "description": "Student management system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "path",
+    "fs"
+  ],
+  "author": "khushboo koul",
+  "license": "ISC"
+}
